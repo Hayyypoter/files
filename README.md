@@ -3,6 +3,7 @@
 如某些网页打不开可能是DNS解析被劫持。
 
 阿里公共DNS：https://www.alidns.com/knowledge?type=SETTING_DOCS#user
+
 1.打开Windows 10系统控制面板，点击右上角的以图标方式显示，点击“网络和共享中心”选项。
 
 2.IPv4——选择使用指定的DNS，在DNS服务器地址中输入223.5.5.5 和 223.6.6.6，输入后确定退出即设置完成。
